@@ -16,3 +16,6 @@ O algoritmo KCF (Kernelized Correlation Filter) é projetado para rastreamento d
 Finalidade: CSRT é um algoritmo de rastreamento de objetos que visa melhorar o rastreamento em cenas desafiadoras, incluindo mudanças de iluminação e oclusões.
 Características Principais: Inclui informações de confiança espacial e de canal para melhorar a precisão. Lida bem com variações de escala, rotação e mudanças de aparência.
 Uso Típico: Aplicações que requerem rastreamento robusto em condições desafiadoras, como rastreamento de objetos em ambientes dinâmicos e variáveis.
+
+
+<br> ![obg](https://github.com/nandinhaaa/ComputacaoGrafica/assets/91507393/b81dcf29-7b7b-41fd-8d85-a23404b0a055) 
